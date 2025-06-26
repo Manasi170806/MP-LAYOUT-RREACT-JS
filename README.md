@@ -25,13 +25,6 @@ This is a modern and responsive layout built with React.js 💻. It's perfect fo
 ┃ ┗ 📄 index.js
 ┣ 📄 package.json
 
-**▶️ How to Run:**
-
-git clone https://github.com/your-username/react-layout.git
-cd react-layout
-npm install
-npm start
-
 **💡 Use Cases:**
 
 Portfolio Websites
@@ -41,6 +34,8 @@ Product Pages
 Admin Dashboards
 
 Blog or CMS Frontend
+
+
 
 #ReactJS 
 
@@ -61,6 +56,8 @@ Blog or CMS Frontend
 #WebDevelopment 
 
 #GitHubProject
+
+
 
 
 PROJECT EXPLAIN VIDEO : 
