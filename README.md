@@ -17,12 +17,19 @@ This is a modern and responsive layout built with React.js 💻. It's perfect fo
 **📁 Project Structure:**
 
 📦 react-layout
+
 ┣ 📂 public
+
 ┣ 📂 src
+
 ┃ ┣ 📂 components
+
 ┃ ┣ 📂 assets
+
 ┃ ┣ 📄 App.js
+
 ┃ ┗ 📄 index.js
+
 ┣ 📄 package.json
 
 **💡 Use Cases:**
@@ -37,25 +44,7 @@ Blog or CMS Frontend
 
 
 
-#ReactJS 
-
-#ResponsiveLayout 
-
-#FrontendDev 
-
-#WebDesign 
-
-#OpenSource 
-
-#ReactComponents 
-
-#UIDesign 
-
-#JavaScript 
-
-#WebDevelopment 
-
-#GitHubProject
+#ReactJS #ResponsiveLayout #FrontendDev #WebDesign #OpenSource #ReactComponents #UIDesign #JavaScript #WebDevelopment #GitHubProject
 
 
 
