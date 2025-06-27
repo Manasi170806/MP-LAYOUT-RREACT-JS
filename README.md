@@ -44,7 +44,8 @@ Blog or CMS Frontend
 
 **Layout Output**
 
-<img src="C:\Users\MANASI PATEL\Pictures\Screenshots\Screenshot (45).png">
+![Screenshot (45)](https://github.com/user-attachments/assets/90455b80-69a8-448b-8114-b3e51fe5466c)
+
 
 
 #ReactJS #ResponsiveLayout #FrontendDev #WebDesign #OpenSource #ReactComponents #UIDesign #JavaScript #WebDevelopment #GitHubProject
