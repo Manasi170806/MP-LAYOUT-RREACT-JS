@@ -42,6 +42,10 @@ Admin Dashboards
 
 Blog or CMS Frontend
 
+**Layout Output**
+
+"C:\Users\MANASI PATEL\Pictures\Screenshots\Screenshot (45).png"
+
 
 
 #ReactJS #ResponsiveLayout #FrontendDev #WebDesign #OpenSource #ReactComponents #UIDesign #JavaScript #WebDevelopment #GitHubProject
