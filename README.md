@@ -53,4 +53,4 @@ Blog or CMS Frontend
 
 
 
-PROJECT EXPLAIN VIDEO : 
+PROJECT EXPLAIN VIDEO : https://drive.google.com/file/d/14x16W6xzwt1Ss09M2qHZyXTRcOs-RKDQ/view?usp=sharing
